@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Mo'men Aladdin",
+    "age": 29,
+    "email": "moamen1@gmail.com"
+  },
+  { "id": 2, "name": "Islam Mohamed", "age": 33, "email": "islam2@gmail.com" },
+  { "id": 3, "name": "Ahmed Ezzat", "age": 27, "emali": "ezzat3@gmail.com" }
+]
